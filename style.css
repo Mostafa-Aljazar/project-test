@@ -4,5 +4,11 @@
     box-sizing: border-box;
 }
 
+header{
+    background:#3498db ;
+    color: white;
+    text-align: center;
+    font-size:2em;   
+}
 
 
